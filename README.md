@@ -4,8 +4,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/mayro5a/mayro5a/stats-output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/mayro5a/mayro5a/languages-output/languages.svg" height="150" alt="languages graph" />
+  <img src="./profile/stats.svg" height="150" alt="stats graph" />
+  <img src="./profile/top-langs.svg" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -47,7 +47,7 @@ Fora do código, sou apaixonado por jogos, música, tecnologia e astronomia. Sem
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/mayro5a/mayro5a/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="./profile/snake.svg" alt="Snake animation" />
 
 ###
 
